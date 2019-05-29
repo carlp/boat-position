@@ -1,64 +1,19 @@
 {
   "results": [
     {
-      "id": "1",
-      "date_time": "Monday 20, May 2019 09:00",
+      "id": 1,
+      "date_time": "Tuesday, 21 May 2019 09:00",
       "geometry": {
         "location": {
           "lat": -36.879533,
           "lng": 174.898734
         }
       },
-      "update": "Avant Garde 2 - The starting point",
+      "boat_speed": 0.0,
+      "wind_speed": 0.0,
+      "temp": 16,
+      "update": "### Avant Garde II - Half Moon Bay Marina\n\nWe have been delayed due to weather. :-(\n\nLooking to depart now on June 1.",
       "author": "Carl Pattie"
-    },
-    {
-      "id": "2",
-      "date_time": "Tuesday 21, May 2019 09:00",
-      "geometry": {
-        "location": {
-          "lat": -36.42833,
-          "lng": 174.91999
-        }
-      },
-      "update": "Test",
-      "author": "Carl"
-    },
-    {
-      "id": "3",
-      "date_time": "Wednesday 22, May 2019 09:00",
-      "geometry": {
-        "location": {
-          "lat": -31.94333,
-          "lng": 179.93
-        }
-      },
-      "update": "Test 2",
-      "author": "Carl"
-    },
-    {
-      "id": "4",
-      "date_time": "Wednesday 22, May 2019 19:00",
-      "geometry": {
-        "location": {
-          "lat": -30.94333,
-          "lng": 179.93
-        }
-      },
-      "update": "Test 3",
-      "author": "Carl"
-    },
-    {
-      "id": "5",
-      "date_time": "Wednesday 22, May 2019 20:00",
-      "geometry": {
-        "location": {
-          "lat": -30.91333,
-          "lng": 179.93
-        }
-      },
-      "update": "Test 4",
-      "author": "Carl"
     }
   ],
   "status": "Ok"
