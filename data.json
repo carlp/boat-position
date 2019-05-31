@@ -12,7 +12,7 @@
       "boat_speed": 0.0,
       "wind_speed": 0.0,
       "temp": 16,
-      "update": "### Avant Garde II - Half Moon Bay Marina\n\nWe have been delayed due to weather. :-(\n\nLooking to depart now on June 1.",
+      "update": "### Avant Garde II - Half Moon Bay Marina\n\nWe have been delayed due to weather.\n\nLooking to depart now on June 1.\n\n[Marine Traffic Link](https://www.marinetraffic.com/en/ais/details/ships/shipid:698996/mmsi:512002527/vessel:AVANT%20GARDE%20II)\n\n[Raw Position Data - Github](https://raw.githubusercontent.com/carlp/boat-position/master/data.json)",
       "author": "Carl Pattie"
     }
   ],
