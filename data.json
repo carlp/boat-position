@@ -14,6 +14,21 @@
       "temp": 16,
       "update": "### Avant Garde II - Half Moon Bay Marina\n\nWe have been delayed due to weather.\n\nLooking to depart now on June 1.\n\n[Marine Traffic Link](https://www.marinetraffic.com/en/ais/details/ships/shipid:698996/mmsi:512002527/vessel:AVANT%20GARDE%20II)\n\n[Raw Position Data - Github](https://raw.githubusercontent.com/carlp/boat-position/master/data.json)",
       "author": "Carl Pattie"
+    },
+    {
+      "id": 2,
+      "date_time": "Satruday, June 1 11:56",
+      "geometry": {
+        "location": {
+          "lat": -36.9933,
+          "lng": 174.822
+        }
+      },
+      "boat_speed": 6.5,
+      "wind_speed": 23.2,
+      "temp": 14.6,
+      "update": "Departed through Z Peir in Auckland.  On our way.",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
