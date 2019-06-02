@@ -29,6 +29,21 @@
       "temp": 14.6,
       "update": "Departed through Z Peir in Auckland.  On our way.",
       "author": "Carl"
+    },
+    {
+      "id": 3,
+      "date_time": "Sunday, June 2 16:50",
+      "geometry": {
+      "location": {
+        "lat": -33.4281,
+        "lng": 175.9231
+        }
+      },
+      "boat_speed": 6.2,
+      "wind_speed": 20.6,
+      "temp": 17.4,
+      "update": "Started out with big seas and a good breeze.\n\nGetting along well with top speed of 9.9kts, but averaging around 8kts.\n\nAll got a little queasy to begin with.  But coming right now.\n\nAwakening (Tom) still relatively close by.\n\nWriting updates in these seas is like trying to code while riding a mechanical bull. My office chair stomach couldn’t handle it the first day.",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
