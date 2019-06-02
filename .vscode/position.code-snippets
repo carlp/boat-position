@@ -19,6 +19,7 @@
 		"scope": "json",
 		"prefix": "log",
 		"body": [
+			",",
 			"{",
 			"  \"id\": ${1:id},",
 			"  \"date_time\": \"${2:date}\",",
@@ -33,7 +34,7 @@
 			"  \"temp\": ${7:temp},",
 			"  \"update\": \"${8:update}\",",
 			"  \"author\": \"${9:author}\"",
-			"},",
+			"}",
 		],
 		"description": "Create new log entry"
 	}
