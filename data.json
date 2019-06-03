@@ -44,6 +44,21 @@
       "temp": 17.4,
       "update": "Started out with big seas and a good breeze.\n\nGetting along well with top speed of 9.9kts, but averaging around 8kts.\n\nAll got a little queasy to begin with.  But coming right now.\n\nAwakening (Tom) still relatively close by.\n\nWriting updates in these seas is like trying to code while riding a mechanical bull. My office chair stomach couldn’t handle it the first day.",
       "author": "Carl"
+    },
+    {
+      "id": 4,
+      "date_time": "Monday, June 3 10:10",
+      "geometry": {
+      "location": {
+        "lat": -32.24,
+        "lng": 175.219
+        }
+      },
+      "boat_speed": 3.2,
+      "wind_speed": 8.4,
+      "temp": 18.8,
+      "update": "Just put down the first fishing line.\n\nWind has dropped off overnight. Seas are easing as well, so the sailing is more enjoyable.\n\nAll happy on-board.",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
