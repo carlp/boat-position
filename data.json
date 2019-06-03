@@ -59,6 +59,51 @@
       "temp": 18.8,
       "update": "Just put down the first fishing line.\n\nWind has dropped off overnight. Seas are easing as well, so the sailing is more enjoyable.\n\nAll happy on-board.",
       "author": "Carl"
+    },
+    {
+      "id": 5,
+      "date_time": "Monday, June 3 12:08",
+      "geometry": {
+      "location": {
+        "lat": -32.135,
+        "lng": 175.198
+        }
+      },
+      "boat_speed": 5.8,
+      "wind_speed": 8.1,
+      "temp": 20,
+      "update": "Motor sailing now as the wind has dropped.\n\nNot enough wind to keep the sails out with the swell and roll of the boat.\n\nFishing line out the back, hoping for a big catch.",
+      "author": "Carl"
+    },
+    {
+      "id": 6,
+      "date_time": "Monday, June 3 14:21",
+      "geometry": {
+      "location": {
+        "lat": -31.7761,
+        "lng": 175.304
+        }
+      },
+      "boat_speed": 5.8,
+      "wind_speed": 9.5,
+      "temp": 20.2,
+      "update": "No fish yet.\n\nEnjoying some sunshine on deck.\n\nCrew are watching a movie, or having a nap as we continue to motor sail along.",
+      "author": "Carl"
+    },
+    {
+      "id": 7,
+      "date_time": "Monday, June 3 17:29",
+      "geometry": {
+      "location": {
+        "lat": -31.5369,
+        "lng": 175.389
+        }
+      },
+      "boat_speed": 5.9,
+      "wind_speed": 8.2,
+      "temp": 21.3,
+      "update": "It's getting warmer. :-) \n\nThe fish have taken Queens Birthday off as well, not a single bite.\n\nJust watched the sun go down.  Looking forward to the Admirals Lasagna for dinner tonight.",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
