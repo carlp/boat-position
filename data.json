@@ -134,7 +134,38 @@
       "temp": 18,
       "update": "Still got a swell although the water is smooth on top with very little wind.  Still under motor.\n\nFishing line is back out.  Not expecting to catch anything.  It would add to the excitement of the day if we did. \n\nLatitude -29.8717  \nLongitude 175.564  ",
       "author": "Carl"
+    },
+    {
+      "id": 10,
+      "date_time": "Tuesday, June 4 10:20",
+      "geometry": {
+      "location": {
+        "lat": -29.5319,
+        "lng": 175.554
+        }
+      },
+      "boat_speed": 7,
+      "wind_speed": 3,
+      "temp": 20.5,
+      "update": "No wind. We continue to motor.\n\nThis has given time for repairs, charging electronics, and showers. :-)  Crew are all smelling fresh again.\n\nMatt just getting through his second Harry Potter film.  Aiming to finish them all before getting back to NZ.  \n\nLatitude -29.5319  \nLongitude 175.554 ",
+      "author": "Carl"
+    },
+    {
+      "id": 11,
+      "date_time": "Tuesday, June 4 16:12",
+      "geometry": {
+      "location": {
+        "lat": -28.8922,
+        "lng": 175.6469
+        }
+      },
+      "boat_speed": 6.5,
+      "wind_speed": 10.5,
+      "temp": 21.3,
+      "update": "Still not sailing as the wind is directly on the nose.  Hoping it will be more suitable for sailing soon.\n\nThe little Perkins (engine) still wirring away.\n\nCrew spent the afternoon napping and reading.  Now just preparing for the sun to go down, and the night watches to start.\n\nJames & Otto, no fish caught yet.   \n\nLatitude -28.8922  \nLongitude 175.6469",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
 }
+
