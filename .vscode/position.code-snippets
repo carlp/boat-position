@@ -32,7 +32,7 @@
 			"  \"boat_speed\": ${5:boatspeed},",
 			"  \"wind_speed\": ${6:windspeed},",
 			"  \"temp\": ${7:temp},",
-			"  \"update\": \"${8:update}\",",
+			"  \"update\": \"${8:update}\n\nLatitude: ${3:lat}\nLongitude: ${4:lng}\",",
 			"  \"author\": \"${9:author}\"",
 			"}",
 		],
