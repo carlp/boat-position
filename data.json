@@ -177,7 +177,22 @@
       "boat_speed": 4.5,
       "wind_speed": 30,
       "temp": 21.3,
-      "update": "Wind picked up overnight.  Had to reef the main sail multiple times during the night.  Took it down this morning, and been on just the storm jib all day.\n\nBack on the mechanical bull ride.  Avant Garde II doing well getting through the swell and chop.  Forecast suggests it will ease and be at a more favourable direction tonight.\n\nIf you thought writing code on a mechanical bull woul be difficult, consider trying to use the restroom.\n\nAll well on board.\n\nLatitude: -27.7422\nLongitude: 177.0019",
+      "update": "Wind picked up overnight.  Had to reef the main sail multiple times during the night.  Took it down this morning, and been on just the storm jib all day.\n\nBack on the mechanical bull ride.  Avant Garde II doing well getting through the swell and chop.  Forecast suggests it will ease and be at a more favourable direction tonight.\n\nIf you thought writing code on a mechanical bull would be difficult, consider trying to use the restroom.\n\nAll well on board.\n\nLatitude: -27.7422\nLongitude: 177.0019",
+      "author": "Carl"
+    },
+    {
+      "id": 13,
+      "date_time": "Thursday, June 6 09:27",
+      "geometry": {
+      "location": {
+        "lat": -26.7856,
+        "lng": 177.388
+        }
+      },
+      "boat_speed": 6.5,
+      "wind_speed": 19.2,
+      "temp": 23.3,
+      "update": "Wind has eased and is now more westerly.  We are heading directly for Fiji now.  Still got a bit of a swell.\n\nMatt back into Harry Potter today after wet Wednesday yesterday.\n\nCrew all happy.\n\nLatitude: -26.7856\nLongitude: 177.388",
       "author": "Carl"
     }
   ],
