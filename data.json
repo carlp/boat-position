@@ -164,6 +164,21 @@
       "temp": 21.3,
       "update": "Still not sailing as the wind is directly on the nose.  Hoping it will be more suitable for sailing soon.\n\nThe little Perkins (engine) still wirring away.\n\nCrew spent the afternoon napping and reading.  Now just preparing for the sun to go down, and the night watches to start.\n\nJames & Otto, no fish caught yet.   \n\nLatitude -28.8922  \nLongitude 175.6469",
       "author": "Carl"
+    },
+    {
+      "id": 12,
+      "date_time": "Wednesday, June 5 15:26",
+      "geometry": {
+      "location": {
+        "lat": -27.7422,
+        "lng": 177.0019
+        }
+      },
+      "boat_speed": 4.5,
+      "wind_speed": 30,
+      "temp": 21.3,
+      "update": "Wind picked up overnight.  Had to reef the main sail multiple times during the night.  Took it down this morning, and been on just the storm jib all day.\n\nBack on the mechanical bull ride.  Avant Garde II doing well getting through the swell and chop.  Forecast suggests it will ease and be at a more favourable direction tonight.\n\nIf you thought writing code on a mechanical bull would be difficult, consider trying to use the restroom.\n\nAll well on board.\n\nLatitude: -27.7422\nLongitude: 177.0019",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
