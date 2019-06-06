@@ -194,6 +194,21 @@
       "temp": 23.3,
       "update": "Wind has eased and is now more westerly.  We are heading directly for Fiji now.  Still got a bit of a swell.\n\nMatt back into Harry Potter today after wet Wednesday yesterday.\n\nCrew all happy.\n\nLatitude: -26.7856\nLongitude: 177.388",
       "author": "Carl"
+    },
+    {
+      "id": 14,
+      "date_time": "Thursday, June 6 15:00",
+      "geometry": {
+      "location": {
+        "lat": -25.9897,
+        "lng": 177.2803
+        }
+      },
+      "boat_speed": 7.2,
+      "wind_speed": 18.9,
+      "temp": 24,
+      "update": "Great sailing today.\nStill got a few bumps in the seas, but more bearable than yesterday. Nice and sunny out on deck.\n\nLatitude: -25.9897\nLongitude: 177.2803",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
