@@ -209,6 +209,21 @@
       "temp": 24,
       "update": "Great sailing today.\nStill got a few bumps in the seas, but more bearable than yesterday. Nice and sunny out on deck.\n\nLatitude: -25.9897\nLongitude: 177.2803",
       "author": "Carl"
+    },
+    {
+      "id": 15,
+      "date_time": "Friday, June 7 10:57",
+      "geometry": {
+      "location": {
+        "lat": -23.6764,
+        "lng": 177.5572
+        }
+      },
+      "boat_speed": 7.4,
+      "wind_speed": 11,
+      "temp": 24.8,
+      "update": "Wind went round to the south and dropped off overnight.  Motoring since midnight last night.\n\nMatt back into Harry Potter as the seas are calmer.\n\nCrew are just reading or working on getting a tan.\n\nLatitude: -23.6764\nLongitude: 177.5572",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
