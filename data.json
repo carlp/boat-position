@@ -224,6 +224,36 @@
       "temp": 24.8,
       "update": "Wind went round to the south and dropped off overnight.  Motoring since midnight last night.\n\nMatt back into Harry Potter as the seas are calmer.\n\nCrew are just reading or working on getting a tan.\n\nLatitude: -23.6764\nLongitude: 177.5572",
       "author": "Carl"
+    },
+    {
+      "id": 16,
+      "date_time": "Friday, June 7 16:50",
+      "geometry": {
+      "location": {
+        "lat": -23.1019,
+        "lng": 177.625
+        }
+      },
+      "boat_speed": 6.7,
+      "wind_speed": 15.4,
+      "temp": 24.9,
+      "update": "Back sailing with genoa and main sail up.  It's good to have the engine off again.\n\nShould be arriving in Fiji on Sunday.  Winds look to be favourable as they blow us north.\n\nLatitude: -23.1019\nLongitude: 177.625",
+      "author": "Carl"
+    },
+    {
+      "id": 17,
+      "date_time": "Saturday, June 8 09:30",
+      "geometry": {
+      "location": {
+        "lat": -21.0881,
+        "lng": 177.0575
+        }
+      },
+      "boat_speed": 6.2,
+      "wind_speed": 16.5,
+      "temp": 24.6,
+      "update": "Had a great sail overnight.  Averaging around 8kts most of the way.  This morning we noticed some damage which makes the boom unservicable.  So we are down to just the genoa held out with the spinnaker pole.\n\nWill now be arriving Sunday afternoon.\n\nMatt has completed his Harry Potter binge.  Now we work on getting a tan and enjoying the relaxed downwind sailing into Fiji.\n\nJames & Otto, we are still trawling a fishing line out the back.  No fish yet.\n\nLatitude: -21.0881\nLongitude: 177.0575",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
