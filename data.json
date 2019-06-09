@@ -239,6 +239,51 @@
       "temp": 24.9,
       "update": "Back sailing with genoa and main sail up.  It's good to have the engine off again.\n\nShould be arriving in Fiji on Sunday.  Winds look to be favourable as they blow us north.\n\nLatitude: -23.1019\nLongitude: 177.625",
       "author": "Carl"
+    },
+    {
+      "id": 17,
+      "date_time": "Saturday, June 8 09:30",
+      "geometry": {
+      "location": {
+        "lat": -21.0881,
+        "lng": 177.0575
+        }
+      },
+      "boat_speed": 6.2,
+      "wind_speed": 16.5,
+      "temp": 24.6,
+      "update": "Had a great sail overnight.  Averaging around 8kts most of the way.  This morning we noticed some damage which makes the boom unservicable.  So we are down to just the genoa held out with the spinnaker pole.\n\nWill now be arriving Sunday afternoon.\n\nMatt has completed his Harry Potter binge.  Now we work on getting a tan and enjoying the relaxed downwind sailing into Fiji.\n\nJames & Otto, we are still trawling a fishing line out the back.  No fish yet.\n\nLatitude: -21.0881\nLongitude: 177.0575",
+      "author": "Carl"
+    },
+    {
+      "id": 18,
+      "date_time": "Sunday, June 9 08:34",
+      "geometry": {
+      "location": {
+        "lat": -18.6472,
+        "lng": 177.1503
+        }
+      },
+      "boat_speed": 6.8,
+      "wind_speed": 14,
+      "temp": 25.3,
+      "update": "Only 30nm still to sail.  Got the genoa out, and just cruising along on a reach towards Fiji.\n\nSea temperature is now 25.5c.  About the same as the air temperature inside the cabin. :-)\n\nETA 2pm.  All excited to be arriving, looking forward to a stationary shower and a beer.\n\nLatitude: -18.6472\nLongitude: 177.1503",
+      "author": "Carl"
+    },
+    {
+      "id": 19,
+      "date_time": "Sunday, June 9 15:14",
+      "geometry": {
+      "location": {
+        "lat": -17.8794,
+        "lng": 177.367
+        }
+      },
+      "boat_speed": 6.4,
+      "wind_speed": 14,
+      "temp": 26.6,
+      "update": "Arrived in Fijian waters this afternoon.  Just making our way to the port.  We will have to stay on board overnight until customs can clear the vessel into Fiji tomorrow morning.\n\nFishing on this trip was a bust.  Zero fish caught.  The worst fishing trip when you think we had a line out for 1000nm with no bites.\n\nCrew all excited to be here.  Looking for a swim and a few drinks tonight.\n\nLatitude: -17.8794\nLongitude: 177.367",
+      "author": "Carl"
     }
   ],
   "status": "Ok"
