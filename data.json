@@ -17,21 +17,36 @@
     },
     {
       "id": 2,
-      "date_time": "Satruday, June 1 11:56",
+      "date_time": "Saturday, June 1 10:50",
+      "geometry": {
+      "location": {
+        "lat": -36.842263,
+        "lng": 174.750835
+        }
+      },
+      "boat_speed": 0,
+      "wind_speed": 23,
+      "temp": 14.6,
+      "update": "Customs processing at Z Pier in Westhaven marina.\n\nLatitude: -36.842263\nLongitude: 174.750835",
+      "author": "Carl"
+    },
+    {
+      "id": 3,
+      "date_time": "Saturday, June 1 11:56",
       "geometry": {
         "location": {
-          "lat": -36.9933,
+          "lat": -36.783543,
           "lng": 174.822
         }
       },
       "boat_speed": 6.5,
       "wind_speed": 23.2,
       "temp": 14.6,
-      "update": "Departed through Z Peir in Auckland.  On our way.",
+      "update": "Departed through Z Pier in Auckland.  On our way.",
       "author": "Carl"
     },
     {
-      "id": 3,
+      "id": 4,
       "date_time": "Sunday, June 2 16:50",
       "geometry": {
       "location": {
@@ -46,7 +61,7 @@
       "author": "Carl"
     },
     {
-      "id": 4,
+      "id": 5,
       "date_time": "Monday, June 3 10:10",
       "geometry": {
       "location": {
@@ -61,7 +76,7 @@
       "author": "Carl"
     },
     {
-      "id": 5,
+      "id": 6,
       "date_time": "Monday, June 3 12:08",
       "geometry": {
       "location": {
@@ -76,7 +91,7 @@
       "author": "Carl"
     },
     {
-      "id": 6,
+      "id": 7,
       "date_time": "Monday, June 3 14:21",
       "geometry": {
       "location": {
@@ -91,7 +106,7 @@
       "author": "Carl"
     },
     {
-      "id": 7,
+      "id": 8,
       "date_time": "Monday, June 3 17:29",
       "geometry": {
       "location": {
@@ -106,7 +121,7 @@
       "author": "Carl"
     },
     {
-      "id": 8,
+      "id": 9,
       "date_time": "Tuesday, June 4 01:53",
       "geometry": {
       "location": {
@@ -121,7 +136,7 @@
       "author": "Carl"
     },
     {
-      "id": 9,
+      "id": 10,
       "date_time": "Tuesday, June 4 07:55",
       "geometry": {
       "location": {
@@ -136,7 +151,7 @@
       "author": "Carl"
     },
     {
-      "id": 10,
+      "id": 11,
       "date_time": "Tuesday, June 4 10:20",
       "geometry": {
       "location": {
@@ -151,7 +166,7 @@
       "author": "Carl"
     },
     {
-      "id": 11,
+      "id": 12,
       "date_time": "Tuesday, June 4 16:12",
       "geometry": {
       "location": {
@@ -166,7 +181,7 @@
       "author": "Carl"
     },
     {
-      "id": 12,
+      "id": 13,
       "date_time": "Wednesday, June 5 15:26",
       "geometry": {
       "location": {
@@ -181,7 +196,7 @@
       "author": "Carl"
     },
     {
-      "id": 13,
+      "id": 14,
       "date_time": "Thursday, June 6 09:27",
       "geometry": {
       "location": {
@@ -196,7 +211,7 @@
       "author": "Carl"
     },
     {
-      "id": 14,
+      "id": 15,
       "date_time": "Thursday, June 6 15:00",
       "geometry": {
       "location": {
@@ -211,7 +226,7 @@
       "author": "Carl"
     },
     {
-      "id": 15,
+      "id": 16,
       "date_time": "Friday, June 7 10:57",
       "geometry": {
       "location": {
@@ -226,7 +241,7 @@
       "author": "Carl"
     },
     {
-      "id": 16,
+      "id": 17,
       "date_time": "Friday, June 7 16:50",
       "geometry": {
       "location": {
@@ -241,7 +256,7 @@
       "author": "Carl"
     },
     {
-      "id": 17,
+      "id": 18,
       "date_time": "Saturday, June 8 09:30",
       "geometry": {
       "location": {
@@ -256,7 +271,7 @@
       "author": "Carl"
     },
     {
-      "id": 18,
+      "id": 19,
       "date_time": "Sunday, June 9 08:34",
       "geometry": {
       "location": {
@@ -271,7 +286,7 @@
       "author": "Carl"
     },
     {
-      "id": 19,
+      "id": 20,
       "date_time": "Sunday, June 9 15:14",
       "geometry": {
       "location": {
