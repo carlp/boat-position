@@ -1,0 +1,306 @@
+﻿{
+  "results": [
+    {
+      "id": 1,
+      "date_time": "Tuesday, 21 May 2019 09:00",
+      "geometry": {
+        "location": {
+          "lat": -36.879533,
+          "lng": 174.898734
+        }
+      },
+      "boat_speed": 0.0,
+      "wind_speed": 0.0,
+      "temp": 16,
+      "update": "### Avant Garde II - Half Moon Bay Marina\n\nWe have been delayed due to weather.\n\nLooking to depart now on June 1.\n\n[Marine Traffic Link](https://www.marinetraffic.com/en/ais/details/ships/shipid:698996/mmsi:512002527/vessel:AVANT%20GARDE%20II)",
+      "author": "Carl Pattie"
+    },
+    {
+      "id": 2,
+      "date_time": "Saturday, June 1 10:50",
+      "geometry": {
+      "location": {
+        "lat": -36.842263,
+        "lng": 174.750835
+        }
+      },
+      "boat_speed": 0,
+      "wind_speed": 23,
+      "temp": 14.6,
+      "update": "Customs processing at Z Pier in Westhaven marina.",
+      "author": "Carl"
+    },
+    {
+      "id": 3,
+      "date_time": "Saturday, June 1 11:56",
+      "geometry": {
+        "location": {
+          "lat": -36.7959,
+          "lng": 174.817
+        }
+      },
+      "boat_speed": 6.5,
+      "wind_speed": 23.2,
+      "temp": 14.6,
+      "update": "Departed through Z Pier in Auckland.  On our way.",
+      "author": "Carl"
+    },
+    {
+      "id": 4,
+      "date_time": "Sunday, June 2 16:50",
+      "geometry": {
+      "location": {
+        "lat": -33.339,
+        "lng": 175.917
+        }
+      },
+      "boat_speed": 6.2,
+      "wind_speed": 20.6,
+      "temp": 17.4,
+      "update": "Started out with big seas and a good breeze.\n\nGetting along well with top speed of 9.9kts, but averaging around 8kts.\n\nAll got a little queasy to begin with.  But coming right now.\n\nAwakening (Tom) still relatively close by.\n\nWriting updates in these seas is like trying to code while riding a mechanical bull. My office chair stomach couldn’t handle it the first day.",
+      "author": "Carl"
+    },
+    {
+      "id": 5,
+      "date_time": "Monday, June 3 10:10",
+      "geometry": {
+      "location": {
+        "lat": -32.0771,
+        "lng": 175.091
+        }
+      },
+      "boat_speed": 3.2,
+      "wind_speed": 8.4,
+      "temp": 18.8,
+      "update": "Just put down the first fishing line.\n\nWind has dropped off overnight. Seas are easing as well, so the sailing is more enjoyable.\n\nAll happy on-board.",
+      "author": "Carl"
+    },
+    {
+      "id": 6,
+      "date_time": "Monday, June 3 12:08",
+      "geometry": {
+      "location": {
+        "lat": -31.8828,
+        "lng": 175.122
+        }
+      },
+      "boat_speed": 5.8,
+      "wind_speed": 8.1,
+      "temp": 20,
+      "update": "Motor sailing now as the wind has dropped.\n\nNot enough wind to keep the sails out with the swell and roll of the boat.\n\nFishing line out the back, hoping for a big catch.",
+      "author": "Carl"
+    },
+    {
+      "id": 7,
+      "date_time": "Monday, June 3 14:21",
+      "geometry": {
+      "location": {
+        "lat": -31.6576,
+        "lng": 175.159
+        }
+      },
+      "boat_speed": 5.8,
+      "wind_speed": 9.5,
+      "temp": 20.2,
+      "update": "No fish yet.\n\nEnjoying some sunshine on deck.\n\nCrew are watching a movie, or having a nap as we continue to motor sail along.",
+      "author": "Carl"
+    },
+    {
+      "id": 8,
+      "date_time": "Monday, June 3 17:29",
+      "geometry": {
+      "location": {
+        "lat": -31.3456,
+        "lng": 175.211
+        }
+      },
+      "boat_speed": 5.9,
+      "wind_speed": 8.2,
+      "temp": 21.3,
+      "update": "It's getting warmer. :-) \n\nThe fish have taken Queens Birthday off as well, not a single bite.\n\nJust watched the sun go down.  Looking forward to the Admirals Lasagna for dinner tonight.",
+      "author": "Carl"
+    },
+    {
+      "id": 9,
+      "date_time": "Tuesday, June 4 01:53",
+      "geometry": {
+      "location": {
+        "lat": -30.4464,
+        "lng": 175.363
+        }
+      },
+      "boat_speed": 6.5,
+      "wind_speed": 3,
+      "temp": 18,
+      "update": "Just finishing my night watch.\n\nNo other vessels in sight.\n\nGreat view of the stars as we motor north.",
+      "author": "Carl"
+    },
+    {
+      "id": 10,
+      "date_time": "Tuesday, June 4 07:55",
+      "geometry": {
+      "location": {
+        "lat": -29.773,
+        "lng": 175.41
+        }
+      },
+      "boat_speed": 6.5,
+      "wind_speed": 3,
+      "temp": 18,
+      "update": "Still got a swell although the water is smooth on top with very little wind.  Still under motor.\n\nFishing line is back out.  Not expecting to catch anything.  It would add to the excitement of the day if we did.",
+      "author": "Carl"
+    },
+    {
+      "id": 11,
+      "date_time": "Tuesday, June 4 10:20",
+      "geometry": {
+      "location": {
+        "lat": -29.5019,
+        "lng": 175.441
+        }
+      },
+      "boat_speed": 7,
+      "wind_speed": 3,
+      "temp": 20.5,
+      "update": "No wind. We continue to motor.\n\nThis has given time for repairs, charging electronics, and showers. :-)  Crew are all smelling fresh again.\n\nMatt just getting through his second Harry Potter film.  Aiming to finish them all before getting back to NZ.",
+      "author": "Carl"
+    },
+    {
+      "id": 12,
+      "date_time": "Tuesday, June 4 16:12",
+      "geometry": {
+      "location": {
+        "lat": -28.8839,
+        "lng": 175.54
+        }
+      },
+      "boat_speed": 6.5,
+      "wind_speed": 10.5,
+      "temp": 21.3,
+      "update": "Still not sailing as the wind is directly on the nose.  Hoping it will be more suitable for sailing soon.\n\nThe little Perkins (engine) still whirring away.\n\nCrew spent the afternoon napping and reading.  Now just preparing for the sun to go down, and the night watches to start.\n\nJames & Otto, no fish caught yet.",
+      "author": "Carl"
+    },
+    {
+      "id": 13,
+      "date_time": "Wednesday, June 5 15:26",
+      "geometry": {
+      "location": {
+        "lat": -27.6085,
+        "lng": 176.781
+        }
+      },
+      "boat_speed": 4.5,
+      "wind_speed": 30,
+      "temp": 21.3,
+      "update": "Wind picked up overnight.  Had to reef the main sail multiple times during the night.  Took it down this morning, and been on just the storm jib all day.\n\nBack on the mechanical bull ride.  Avant Garde II doing well getting through the swell and chop.  Forecast suggests it will ease and be at a more favorable direction tonight.\n\nIf you thought writing code on a mechanical bull would be difficult, consider trying to use the restroom.\n\nAll well on board.",
+      "author": "Carl"
+    },
+    {
+      "id": 14,
+      "date_time": "Thursday, June 6 09:27",
+      "geometry": {
+      "location": {
+        "lat": -26.5328,
+        "lng": 177.384
+        }
+      },
+      "boat_speed": 6.5,
+      "wind_speed": 19.2,
+      "temp": 23.3,
+      "update": "Wind has eased and is now more westerly.  We are heading directly for Fiji now.  Still got a bit of a swell.\n\nMatt back into Harry Potter today after wet Wednesday yesterday.\n\nCrew all happy.",
+      "author": "Carl"
+    },
+    {
+      "id": 15,
+      "date_time": "Thursday, June 6 15:00",
+      "geometry": {
+      "location": {
+        "lat": -25.8584,
+        "lng": 177.252
+        }
+      },
+      "boat_speed": 7.2,
+      "wind_speed": 18.9,
+      "temp": 24,
+      "update": "Great sailing today.\nStill got a few bumps in the seas, but more bearable than yesterday. Nice and sunny out on deck.",
+      "author": "Carl"
+    },
+    {
+      "id": 16,
+      "date_time": "Friday, June 7 10:57",
+      "geometry": {
+      "location": {
+        "lat": -23.5889,
+        "lng": 177.472
+        }
+      },
+      "boat_speed": 7.4,
+      "wind_speed": 11,
+      "temp": 24.8,
+      "update": "Wind went round to the south and dropped off overnight.  Motoring since midnight last night.\n\nMatt back into Harry Potter as the seas are calmer.\n\nCrew are just reading or working on getting a tan.",
+      "author": "Carl"
+    },
+    {
+      "id": 17,
+      "date_time": "Friday, June 7 16:50",
+      "geometry": {
+      "location": {
+        "lat": -22.9435,
+        "lng": 177.523
+        }
+      },
+      "boat_speed": 6.7,
+      "wind_speed": 15.4,
+      "temp": 24.9,
+      "update": "Back sailing with genoa and main sail up.  It's good to have the engine off again.\n\nShould be arriving in Fiji on Sunday.  Winds look to be favourable as they blow us north.",
+      "author": "Carl"
+    },
+    {
+      "id": 18,
+      "date_time": "Saturday, June 8 09:30",
+      "geometry": {
+      "location": {
+        "lat": -20.8486,
+        "lng": 177.003
+        }
+      },
+      "boat_speed": 6.2,
+      "wind_speed": 16.5,
+      "temp": 24.6,
+      "update": "Had a great sail overnight.  Averaging around 8kts most of the way.  This morning we noticed some damage which makes the boom unserviceable.  So we are down to just the genoa held out with the spinnaker pole.\n\nWill now be arriving Sunday afternoon.\n\nMatt has completed his Harry Potter binge.  Now we work on getting a tan and enjoying the relaxed downwind sailing into Fiji.\n\nJames & Otto, we are still trawling a fishing line out the back.  No fish yet.",
+      "author": "Carl"
+    },
+    {
+      "id": 19,
+      "date_time": "Sunday, June 9 08:34",
+      "geometry": {
+      "location": {
+        "lat": -18.4462,
+        "lng": 176.993
+        }
+      },
+      "boat_speed": 6.8,
+      "wind_speed": 14,
+      "temp": 25.3,
+      "update": "Only 30nm still to sail.  Got the genoa out, and just cruising along on a reach towards Fiji.\n\nSea temperature is now 25.5c.  About the same as the air temperature inside the cabin. :-)\n\nETA 2pm.  All excited to be arriving, looking forward to a stationary shower and a beer.",
+      "author": "Carl"
+    },
+    {
+      "id": 20,
+      "date_time": "Sunday, June 9 15:14",
+      "geometry": {
+      "location": {
+        "lat": -17.7734,
+        "lng": 177.304
+        }
+      },
+      "boat_speed": 6.4,
+      "wind_speed": 14,
+      "temp": 26.6,
+      "update": "Arrived in Fijian waters this afternoon.  Just making our way to the port.  We will have to stay on board overnight until customs can clear the vessel into Fiji tomorrow morning.\n\nFishing on this trip was a bust.  Zero fish caught.  The worst fishing trip when you think we had a line out for 1000nm with no bites.\n\nCrew all excited to be here.  Looking for a swim and a few drinks tonight.",
+      "author": "Carl"
+    }
+  ],
+  "status": "Ok"
+}
+
