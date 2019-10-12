@@ -28,7 +28,22 @@
           "wind_speed": 6.3,
           "temp": 28,
           "update": "## On our way\n\nWe have passed through Navula Passage about 10 minutes ago in smooth seas but it will be a wee bit rougher soon.\n\nWe got out of Denarau at 10:00am.\n\nLunch was fish wraps. Yum.\n\nLatitude: -17.94395\nLongitude: 177.193",
-          "author": "author"
+          "author": "Keith"
+        },
+        {
+          "id": 3,
+          "date_time": "13 October, 10:00",
+          "geometry": {
+          "location": {
+            "lat": -20.50243333,
+            "lng": 176.8491
+            }
+          },
+          "boat_speed": 8.5,
+          "wind_speed": 17,
+          "temp": 0,
+          "update": "Morning you Land Lubbers.\n\nWe are all getting our sea legs although we all have been a wee green over the last 24 hours but no sickness.\n\nIn the last 24 hours we have had between 6 to 7 knots with a 1 reef and the staysail and a normally easterly 18 t0 25 kts, seas moderate swells.  We prepared dinner but we thought with the seas and the crew tummies we decides snacks were easier to hand around.\n\nThis morning the wind has dropped so we have the full sail and the genoa out and have between 8.5 kts and 9.7 kts.\n\nOur first 24 hours run was 175NM.\n\nLatitude: -20.50243333\nLongitude: 176.8491",
+          "author": "Keith"
         }
     ],
     "status": "ok"
