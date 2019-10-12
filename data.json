@@ -14,6 +14,21 @@
           "temp": 0,
           "update": "## Avant Garde II - Denarau Marina\n\nPreparing the boat to depart on Saturday morning.  Awaiting the last crew member.\n\nLatitude: -17.77266667\nLongitude: 177.3819333",
           "author": "Keith Pattie"
+        },
+        {
+          "id": 2,
+          "date_time": "12 October, 14:35",
+          "geometry": {
+          "location": {
+            "lat": -17.94395,
+            "lng": 177.193
+            }
+          },
+          "boat_speed": 6.3,
+          "wind_speed": 6.3,
+          "temp": 28,
+          "update": "## On our way\n\nWe have passed through Navula Passage about 10 minutes ago in smooth seas but it will be a wee bit rougher soon.\n\nWe got out of Denarau at 10:00am.\n\nLunch was fish wraps. Yum.\n\nLatitude: -17.94395\nLongitude: 177.193",
+          "author": "author"
         }
     ],
     "status": "ok"
