@@ -60,6 +60,21 @@
       "temp": 0,
       "update": "Sorry for the later report due to the fact that the Iridium phone needed more dollars, thanks for arranging that Carl.\n\nWell it was a great days sailing yesterday with comfortable seas.  So good that lunch by cook Leo and was prime steak, veggies and followed with fresh pawpaw with lime juice.  This morning we have had  wind up to 24kts so we were 1 reef and the staysail out and some surfing up to 12.7 kts, very pleasant.  We have some great guidance from one of Alan's sailor mates who has been sending weather information and he is right on the money, very helpful. We have slowed down as there is a tricky cyclone at the top of the of the north island and as we are such polite Gents we are letting it going first before we pick up speed again.  Did I mention saying any thing about being chicken???\n\n24 hour run: 190nm\n\nLatitude: -23.6495\nLongitude: 176.2840667",
       "author": "Keith"
+    },
+    {
+      "id": 5,
+      "date_time": "15 October 11:45",
+      "geometry": {
+      "location": {
+        "lat": -26.14531667,
+        "lng": 175.69775
+        }
+      },
+      "boat_speed": 6,
+      "wind_speed": 18,
+      "temp": 0,
+      "update": "Last night was a mixed bag of weather, during my watch conditions were perfect with gentle seas, clear skies and 15-18kts of wind giving 7-8kts of boat speed and in the end we had some mixed up seas and rain and wind up to 30-35kts, Leo described it like sleeping on a Trampoline not getting of the mat while Brett was definitely getting airborne so we all slipped at he back.  Today is sunny and still warm sailing into a moderate sea.  All feeling good.\n\nLatitude: -26.14531667\nLongitude: 175.69775",
+      "author": "Keith"
     }
   ],
   "status": "ok"
