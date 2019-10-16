@@ -75,6 +75,21 @@
       "temp": 0,
       "update": "Last night was a mixed bag of weather, during my watch conditions were perfect with gentle seas, clear skies and 15-18kts of wind giving 7-8kts of boat speed and in the end we had some mixed up seas and rain and wind up to 30-35kts, Leo described it like sleeping on a Trampoline not getting of the mat while Brett was definitely getting airborne so we all slipped at he back.  Today is sunny and still warm sailing into a moderate sea.  All feeling good.\n\nLatitude: -26.14531667\nLongitude: 175.69775",
       "author": "Keith"
+    },
+    {
+      "id": 7,
+      "date_time": "16 October 11:00",
+      "geometry": {
+      "location": {
+        "lat": -28.825,
+        "lng": 175.2083333
+        }
+      },
+      "boat_speed": 7.5,
+      "wind_speed": 20,
+      "temp": 0,
+      "update": "Late again due to the Editor of this report was a few shades of green but not sick.🤢 Sitting at the computer at the nav station was not recomended. The wind was 20 to 30 kts and the sea was not being nice to us with large swells and choppy waves last night but has calmed a little now.  Breakfast was about 1100AM for the crew!  Signing off now to get some fresh air.\n\nLatitude: -28.825\nLongitude: 175.2083333",
+      "author": "Keith"
     }
   ],
   "status": "ok"
