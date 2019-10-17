@@ -105,6 +105,21 @@
       "temp": 0,
       "update": "Nice sunny day out here but a bit choppy and at the moment.  We are motoring with the mainsail to get some amps into the battery, cool the beer, and heat the hot water. The Genset is still playing up and will run for 20-30 minutes and then tells us it has fuel supply problems, we tell it some very rude words.  There is a nice blue calm of weather coming so there will be some more motoring before we arrive. At this stage we expect to arrive on Saturday at 1600 NZDT subject to the wind. All is well here just minus 3 cups that didn’t stay on the bench at various times.\n\nLatitude: -31.2124\nLongitude: 175.43385",
       "author": "Keith"
+    },
+    {
+      "id": 9,
+      "date_time": "18 October 10:20",
+      "geometry": {
+      "location": {
+        "lat": -33.97685,
+        "lng": 175.3941
+        }
+      },
+      "boat_speed": 8.1,
+      "wind_speed": 12,
+      "temp": 0,
+      "update": "Last night we ran into the large calm patch of weather so we have been motor sailing since 3pm yesterday, the batteries are well charged. The seas have settled down which is great with not too much banging of the vessel.  When the moon came out last night the   sky was clear and with the gentle seas we had great conditions for our second to last night on the Ocean Blue!\n\nWe expect to be in to Auckland between 09.30 to 10.30 tomorrow so this might be then last report, it has been a great trip back from Fiji.  Like all crossing there were good part and bad parts but with this crew it was very pleasant week. Thanks Guys.\n\nLatitude: -33.97685\nLongitude: 175.3941",
+      "author": "Keith"
     }
   ],
   "status": "ok"
