@@ -120,6 +120,21 @@
       "temp": 0,
       "update": "Last night we ran into the large calm patch of weather so we have been motor sailing since 3pm yesterday, the batteries are well charged. The seas have settled down which is great with not too much banging of the vessel.  When the moon came out last night the   sky was clear and with the gentle seas we had great conditions for our second to last night on the Ocean Blue!\n\nWe expect to be in to Auckland between 09.30 to 10.30 tomorrow so this might be then last report, it has been a great trip back from Fiji.  Like all crossing there were good part and bad parts but with this crew it was very pleasant week. Thanks Guys.\n\nLatitude: -33.97685\nLongitude: 175.3941",
       "author": "Keith"
+    },
+    {
+      "id": 10,
+      "date_time": "19 October 10:00am",
+      "geometry": {
+      "location": {
+        "lat": -36.84234,
+        "lng": 174.7511
+        }
+      },
+      "boat_speed": 0,
+      "wind_speed": 0,
+      "temp": 0,
+      "update": "Back in Auckland. Clearing customs on Z Pier.\n\nLatitude: -36.84234\nLongitude: 174.7511",
+      "author": "Carl"
     }
   ],
   "status": "ok"
